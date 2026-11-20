@@ -1,6 +1,6 @@
- <p align="center">
-  <img src="./github-banner.png.png" width="100%" alt="Prateeksha Prabhu"/>
-</p>
+`<p align="center">`
+  `<img src="./github-banner.png.png" width="100%" alt="Prateeksha Prabhu"/>`
+`</p>`
 
 # Hi, I'm Prateeksha Prabhu 👋
 
@@ -77,9 +77,14 @@ I'm passionate about software development, Artificial Intelligence, Data Science
 
 ### 1. Internship Management API
 
-- REST API for managing internship records.
+- Developed a REST API for managing internship records.
 - Built using Node.js, Express.js and SQLite.
-- [View Project](https://github.com/prateekshapk22-jpg/internship-management-api)
+- Implemented backend functionality for handling internship data.
+- Designed API endpoints for managing internship records.
+
+**Project Links:**
+
+- [GitHub Repository](https://github.com/prateekshapk22-jpg/internship-management-api)
 
 ### 2. Responsive Internship Board
 
@@ -91,6 +96,7 @@ I'm passionate about software development, Artificial Intelligence, Data Science
 - Designed responsive layouts for desktop, tablet and mobile devices.
 
 **Project Links:**
+
 - [GitHub Repository](https://github.com/prateekshapk22-jpg/internship-board)
 - [Live Website](https://prateekshapk22-jpg.github.io/internship-board/)
 
@@ -122,14 +128,14 @@ I'm passionate about software development, Artificial Intelligence, Data Science
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekshapk22-jpg&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshapk22-jpg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+`<p align="center">`
+  `<img src="https://github-readme-stats.vercel.app/api?username=prateekshapk22-jpg&show_icons=true&theme=tokyonight&hide_border=true" height="165" />`
+  `<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshapk22-jpg&layout=compact&theme=tokyonight&hide_border=true" height="165" />`
+`</p>`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prateekshapk22-jpg&theme=tokyonight&hide_border=true" />
-</p>
+`<p align="center">`
+  `<img src="https://streak-stats.demolab.com?user=prateekshapk22-jpg&theme=tokyonight&hide_border=true" />`
+`</p>`
 
 ---
 
