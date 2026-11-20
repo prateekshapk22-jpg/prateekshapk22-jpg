@@ -95,7 +95,8 @@ I'm passionate about software development, Artificial Intelligence, Data Science
 - Gain further industry experience.
 
 ## 🌐 Connect With Me
-
+- 💼 LinkedIn: [Prateeksha Prabhu](https://www.linkedin.com/in/Prateeksha-Prabhu-986227381)
+- 🐙 GitHub: [prateekshapk22-jpg](https://github.com/prateekshapk22-jpg)
 ---
 
 ## 📊 GitHub Statistics
@@ -108,9 +109,6 @@ I'm passionate about software development, Artificial Intelligence, Data Science
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prateekshapk22-jpg&theme=tokyonight&hide_border=true" />
 </p>
-
-- 💼 LinkedIn: [Prateeksha Prabhu](https://www.linkedin.com/in/Prateeksha-Prabhu-986227381)
-- 🐙 GitHub: [prateekshapk22-jpg](https://github.com/prateekshapk22-jpg)
 
 ---
 
