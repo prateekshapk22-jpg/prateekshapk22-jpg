@@ -2,9 +2,9 @@
   <img src="./github-banner.png.png" width="100%" alt="Prateeksha Prabhu"/>
 </p>
 
-Hi, I'm Prateeksha Prabhu 👋
+# Hi, I'm Prateeksha Prabhu 👋
 
-Computer Science Engineering Student | Aspiring Software Developer
+### Computer Science Engineering Student | Aspiring Software Developer
 
 Welcome to my GitHub profile!
 
