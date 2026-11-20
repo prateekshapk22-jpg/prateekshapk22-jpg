@@ -140,3 +140,6 @@ I'm passionate about software development, Artificial Intelligence, Data Science
 ---
 
 ⭐ *Learning continuously. Building consistently. Growing through technology.*
+---
+
+⭐ *Learning continuously. Building consistently. Growing through technology.*
