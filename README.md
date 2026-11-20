@@ -128,15 +128,17 @@ I'm passionate about software development, Artificial Intelligence, Data Science
 
 ## 📊 GitHub Statistics
 
-`<p align="center">`
-  `<img src="https://github-readme-stats.vercel.app/api?username=prateekshapk22-jpg&show_icons=true&theme=tokyonight&hide_border=true" height="165" />`
-  `<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshapk22-jpg&layout=compact&theme=tokyonight&hide_border=true" height="165" />`
-`</p>`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekshapk22-jpg&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekshapk22-jpg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-`<p align="center">`
-  `<img src="https://streak-stats.demolab.com?user=prateekshapk22-jpg&theme=tokyonight&hide_border=true" />`
-`</p>`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prateekshapk22-jpg&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+⭐ *Learning continuously. Building consistently. Growing through technology.*
 
 ⭐ *Learning continuously. Building consistently. Growing through technology.*
