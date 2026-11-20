@@ -1,6 +1,6 @@
-`<p align="center">`
-  `<img src="./github-banner.png.png" width="100%" alt="Prateeksha Prabhu"/>`
-`</p>`
+<p align="center">
+<img src="./github-banner.png.png" width="100%" alt="Prateeksha Prabhu"/>
+</p>
 
 # Hi, I'm Prateeksha Prabhu 👋
 
@@ -138,7 +138,5 @@ I'm passionate about software development, Artificial Intelligence, Data Science
 </p>
 
 ---
-
-⭐ *Learning continuously. Building consistently. Growing through technology.*
 
 ⭐ *Learning continuously. Building consistently. Growing through technology.*
