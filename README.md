@@ -1,9 +1,10 @@
 <p align="center">
   <img src="./github-banner.png.png" width="100%" alt="Prateeksha Prabhu"/>
 </p>
-# Hi, I'm Prateeksha Prabhu 👋
 
-### Computer Science Engineering Student | Aspiring Software Developer
+Hi, I'm Prateeksha Prabhu 👋
+
+Computer Science Engineering Student | Aspiring Software Developer
 
 Welcome to my GitHub profile!
 
